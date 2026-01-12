@@ -1,8 +1,4 @@
-Got it — here’s the **same consulting-tone README**, but formatted **entirely with clean `##` sections** so it looks sharp, scannable, and professional on GitHub.
 
-You can **copy–paste this exactly**.
-
----
 
 ## **Hiresight**
 
